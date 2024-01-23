@@ -21,6 +21,6 @@
 # Random Forest 99.9%                       - CV 0.9985
 # Gradient Boosting 99.8%                   - CV 0.9981
 # Support Vector Machines (SVM) 99.9%       - CV 0.9985
-# Neural Network 99.85%                     - CV 0.999
-# K-Nearest Neighbors (KNN) 98.8%           - CV 0.983125
+# Neural Network 99.9%                      - CV 0.9985
+# K-Nearest Neighbors (KNN) 98.8%           - CV 0.9831
 # Stacked 99.9%                             - CV 0.9985
